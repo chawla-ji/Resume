@@ -1,0 +1,148 @@
+{
+    "basics": {
+        "name": "Harsh Chawla",
+        "label": "Student",
+        "picture": "https://iiitkota.ac.in/static/media/gaurav.37dd1b4e.png",
+        "email": "2021kuec2058@iiitkota.ac.in",
+        "phone": "+919997194325",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics and communication engineering.",
+        "location": {
+            "address": "Modinagar, Uttar Pradesh",
+            "postalCode": "201201",
+            "city": "Modinagar",
+            "countryCode": " India",
+            "region": "Rajasthan"
+        },
+        "profiles": [
+            {
+                "network": "",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "Github",
+                "username": "chawla-ji",
+                "url": "https://www.github.com/chawla-ji"
+            },
+            {
+                "network": "linkedin",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "Instagram",
+                "username": "harsh.chawla_01",
+                "url": "https://instagram.com/harsh.chawla_01"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "8.6",
+            "courses": [
+                "Electronics and Communication Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "",
+            "level": "",
+            "keywords": [
+                "HTML",
+                "Competitive Programming",
+                "CSS",
+                "Data Structure and Algorithm",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "C/C++",
+                "Java",
+                "",
+                "",
+                ""
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Singing",
+            "keywords": [
+                "Guitar"
+                "Harmonium"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "",
+                "Badminton"
+            ]
+        }
+    ]
+}
