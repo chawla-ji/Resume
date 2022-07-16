@@ -2,7 +2,7 @@
     "basics": {
         "name": "Harsh Chawla",
         "label": "Student",
-        "picture": "https://iiitkota.ac.in/static/media/gaurav.37dd1b4e.png",
+        "picture": "",
         "email": "2021kuec2058@iiitkota.ac.in",
         "phone": "+919997194325",
         "website": "",
@@ -12,7 +12,7 @@
             "postalCode": "201201",
             "city": "Modinagar",
             "countryCode": " India",
-            "region": "Rajasthan"
+            "region": "Uttar Pradesh"
         },
         "profiles": [
             {
@@ -102,14 +102,14 @@
     ],
     "skills": [
         {
-            "name": "",
-            "level": "",
+            "name": "Programming",
+            "level": "Intermediate",
             "keywords": [
                 "HTML",
                 "Competitive Programming",
                 "CSS",
                 "Data Structure and Algorithm",
-                "",
+                "HTML",
                 "",
                 "",
                 "",
@@ -133,7 +133,7 @@
         {
             "name": "Singing",
             "keywords": [
-                "Guitar"
+                "Guitar",
                 "Harmonium"
             ]
         },
